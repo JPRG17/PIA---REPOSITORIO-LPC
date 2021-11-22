@@ -94,7 +94,7 @@ AL CORRER EL SCRIPT CREA EL RELOJ AUTOMATICAMENTE CON LAS ESPECIFICACIONES DADAS
                                     ESPERO ESTE REPOSITORIO SE DE ALGUNA AYUDA PARA TODOS!!
                                     
                                     
-                                                  MUCHAS GRACIAS POR SU VISITA
+                                                  MUCHAS GRACIAS POR SU VISITA!
 
 
 
