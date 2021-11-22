@@ -79,6 +79,7 @@ ESTE SCRIPT ESTA HECHO EN PYTHON (reloj.py)
 ESTA BASADO EN EL SITIO: https://blog.nubecolectiva.com/como-crear-nuestro-primer-programa-o-software-ejecutable-con-python/ 
 
 ESTE SCRIPT OCUPA LOS SIGUIENTES MODULOS PRA SU FUNCIONAMIENTO:
+           
             1- tkinter
             2- tkinter.ttk
             3- strftime
